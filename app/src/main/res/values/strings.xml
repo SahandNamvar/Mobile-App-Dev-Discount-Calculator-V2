@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Discount_Calculator</string>
+    <string name="discount_calculator">Discount Calculator</string>
+    <string name="item_price">Item Price:</string>
+    <string name="sale">Sale %:</string>
+    <string name="custom">Custom %:</string>
+    <string name="_10">10%</string>
+    <string name="_15">15%</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="enter_item_price">Enter Item Price</string>
+    <string name="_18">18%</string>
+    <string name="Radiocustom">Custom</string>
+    <string name="_25">25%</string>
+    <string name="discount">Discount:</string>
+    <string name="final_price">Final Price:</string>
+    <string name="display_discount">0.00</string>
+    <string name="display_final">0.00</string>
+</resources>
